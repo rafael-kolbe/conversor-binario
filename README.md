@@ -1,5 +1,5 @@
 # conversor-binario
 Converte texto em binário.
 
-Projeto recreativo opicional.
+Projeto recreativo opcional.
 - Um conversor simples de texto em binário utilizando meu conhecimento atual.
