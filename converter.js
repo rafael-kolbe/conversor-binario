@@ -41,7 +41,7 @@ const textCheck = text => {
 
 //Função de conversão para binário.
 const convertText = textArr => {
-    const asciiIndex = [] //Conversão do texto em número inteiro.
+    const asciiIndex = [] //Array para armazenar a conversão em números inteiros.
 
     //Conversão do texto para número inteiro.
     textArr.forEach(element => {
